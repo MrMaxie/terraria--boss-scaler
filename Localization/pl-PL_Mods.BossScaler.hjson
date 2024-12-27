@@ -1,0 +1,13 @@
+Configs.BossScalerConfig.DisplayName: Konfiguracja BossScaler
+
+Config: {
+	BossDamageMultiplier: {
+		Label: Mnożnik Obrażeń Bossów
+		Tooltip: ""
+	}
+
+	BossHPMultiplier: {
+		Label: Mnożnik HP Bossów
+		Tooltip: ""
+	}
+}

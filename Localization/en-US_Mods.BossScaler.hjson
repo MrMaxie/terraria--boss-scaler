@@ -1,2 +1,13 @@
-# This file will automatically update with entries for new content after a build and reload.
+Configs.BossScalerConfig.DisplayName: BossScaler Config
 
+Config: {
+	BossDamageMultiplier: {
+		Label: Boss Damage Multiplier
+		Tooltip: ""
+	}
+
+	BossHPMultiplier: {
+		Label: Boss HP Multiplier
+		Tooltip: ""
+	}
+}
