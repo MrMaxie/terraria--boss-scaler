@@ -1,1 +1,17 @@
-Modify this file with a description of your mod.
+This mod allows you to dynamically scale boss HP and damage, as well as the strength of their minions and other related mobs.
+
+Features:
+- Adjust boss HP and damage with customizable multipliers.
+- Includes scaling for boss-specific minions and mobs appearing during boss fights.
+- Minions related to bosses are scaled at half the multiplier value for better balance.
+- Perfect for making fights easier or significantly more challenging.
+
+Configurations:
+- Boss Damage Multiplier: Modify how much damage bosses deal. Range: 0.1x to 10x.
+- Boss HP Multiplier: Adjust the maximum health of bosses and their minions. Range: 0.1x to 20x.
+
+Additional Notes:
+- Determination of boss minions and mobs used during boss fights is based on manually curated lists in the code.
+- These lists may not be exhaustive. If you find any missing mobs or incorrect assignments, please let me know in the comments so I can improve the mod.
+
+Use this mod to fine-tune your Terraria experience and create the perfect challenge for you and your friends!
